@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**hsf-coding/hsf-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Fuzhou University. 
 - 🌱 I’m currently learning C++ and Python
